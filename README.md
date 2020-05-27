@@ -27,13 +27,13 @@
        By default, flask will run on port 5000.
     3. Navigate to URL http://localhost:5000
     4. We will see the below home page:
-       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/1.png)
+       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/1.png?raw=true)
     5. Enter the details
-       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/2.png)
+       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/2.png?raw=true)
     6. The out put will be 0 or 1.
        1 means the person is having heart ailment
        0 means he is safe 
-       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/3.png)
+       ![alt text](https://github.com/shreyrai99/Heart-Disease-Predictor/blob/master/Working/3.png?raw=true)
        
    ## THANK YOU!
 
