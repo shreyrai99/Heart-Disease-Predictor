@@ -44,5 +44,13 @@
 
    ![3](https://user-images.githubusercontent.com/51885421/83054908-c2035100-a070-11ea-94f2-d00d37dc7322.png)
    
+   
+   7. Do visit my Project on predicting chances of having Diabetes by visiting the following link:
+   
+   
+   https://github.com/shreyrai99/Diabetes-Predictor
+   
+   
+   
    # Thank You ! #
  
