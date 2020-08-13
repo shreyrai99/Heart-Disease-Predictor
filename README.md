@@ -51,6 +51,14 @@
    https://github.com/shreyrai99/Diabetes-Predictor
    
    
+   This website is deployed on Heroku as well! 
    
-   # Thank You ! #
+   
+   Visit the following link and stay safe:
+   
+   
+   https://heart-diseasepredictor.herokuapp.com/
+   
+   
+   # Thank You !#
  
