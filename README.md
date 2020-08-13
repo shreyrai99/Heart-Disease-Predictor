@@ -1,6 +1,13 @@
 # Heart-Disease-Predictor #
   This Project was made to make accurate predictions about whether a person has a heart disease or not by using Neural Networks.
   I deployed the neural network model using Flask API.
+  
+  The Model is deployed on Heroku on the following link:  
+   
+   
+   https://heart-diseasepredictor.herokuapp.com/
+   
+   
  
 # Technologies Used: #
   I used the following tools and technologies in order to successfully make the project: <br />
@@ -48,16 +55,9 @@
    7. Do visit my Project on predicting chances of having Diabetes by visiting the following link:
    
    
-   https://github.com/shreyrai99/Diabetes-Predictor
+   https://github.com/shreyrai99/Diabetes-Predictor   
    
    
-   This website is deployed on Heroku as well! 
-   
-   
-   Visit the following link and stay safe:
-   
-   
-   https://heart-diseasepredictor.herokuapp.com/
    
    
    # Thank You !#
