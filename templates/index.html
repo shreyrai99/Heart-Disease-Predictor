@@ -18,20 +18,28 @@
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-        <input type="text" name="age" placeholder="Age" required="required" />   
-        <input type="text" name="sex" placeholder="Sex" required="required" /> 
-        <input type="text" name="cp" placeholder="CP Value" required="required" /> 
-        <input type="text" name="trestbps" placeholder="Trestbps" required="required" /> 
-        <input type="text" name="chol" placeholder="Cholesterol" required="required" /> 
-        <input type="text" name="fbs" placeholder="fbs" required="required" /> 
-        <input type="text" name="restecg" placeholder="Restecg" required="required" /> 
+        <input type="text" name="age" placeholder="Age" required="required" />         
+        <input type="text" name="sex" placeholder="Sex:0->Male,1->Female" required="required" /> 
+        <br>
+        <input type="text" name="cp" placeholder="CP Value" required="required" />         
+        <input type="text" name="trestbps" placeholder="Trest bps" required="required" /> 
+        <br>
+        <input type="text" name="chol" placeholder="Cholesterol Level" required="required" />         
+        <input type="text" name="fbs" placeholder="FBS  Value" required="required" /> 
+        <br>
+        <input type="text" name="restecg" placeholder="Restecg" required="required" />          
         <input type="text" name="thalach" placeholder="Thalach" required="required" /> 
-        <input type="text" name="exang" placeholder="Exang" required="required" /> 
-        <input type="text" name="oldpeak" placeholder="Oldpeak" required="required" /> 
-        <input type="text" name="slope" placeholder="Slope" required="required" /> 
+        <br>
+        <input type="text" name="exang" placeholder="Exang" required="required"  />         
+        <input type="text" name="oldpeak" placeholder="Oldpeak Value" required="required"  /> 
+        <br>
+        <input type="text" name="slope" placeholder="Slope" required="required" />         
         <input type="text" name="ca" placeholder="Ca" required="required" /> 
-        <input type="text" name="thal" placeholder="Thal" required="required" />      
-        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+        <br>
+        <input type="text" name="thal" placeholder="Thal" required="required"  />   
+        <br>   
+        <br>
+        <button type="submit" class="btn btn-primary btn-block btn-large" style="font-size:20pt;">Predict</button>
     </form>
 
    <br>
