@@ -19,8 +19,12 @@ def predict():
     prediction = model.predict(final_features)
 
     output = round(prediction[0],12)
-
-    return render_template('index.html', prediction_text='1 means disease, 0 means not. Result is {}'.format(output))
+    if output==1:
+        return render_template('index.html', prediction_text='We are sorry to inform that you may have Heart Disease! Please seek medical advise')
+    else:
+        return render_template('index.html', prediction_text='Congratulations! You dont have any Heart Disease! Stay Healthy')
+        
+    
 
 @app.route('/predict_api',methods=['POST'])
 def predict_api():
