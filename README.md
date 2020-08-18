@@ -36,20 +36,44 @@
    4. We will see the below home page: 
    
    
-   ![1](https://user-images.githubusercontent.com/51885421/83054548-34bffc80-a070-11ea-8952-b9a526707945.png)
+   ![Screenshot (141)](https://user-images.githubusercontent.com/51885421/90496324-4e4e7d00-e163-11ea-9813-01c9498d3d17.png)
    
    
-   5. Enter the details <br />   
-   
-   ![2](https://user-images.githubusercontent.com/51885421/83054774-8e282b80-a070-11ea-82eb-6165409ea42b.png)
    
    
-   6. The out put will be 0 or 1. <br />
-      1 means the person is having heart ailment <br />
-      0 means he is safe  <br />
+   5. Case when the patient has heart disease
+   
+   
+      Data Entered by the user:
+      
+      ![Screenshot (146)](https://user-images.githubusercontent.com/51885421/90496322-4db5e680-e163-11ea-915d-d19fe46291d0.png)
+      
+      
+      Result Predicted by our Model:
+      
+      
+      ![Screenshot (143)](https://user-images.githubusercontent.com/51885421/90496309-4a225f80-e163-11ea-9a10-cecef7d37019.png)
+   
+   
+   
+   6. Case when the patient does not have heart ailments:
+   
+   
+      Data Entered by the user:
+      
+      
+      ![Screenshot (144)](https://user-images.githubusercontent.com/51885421/90496317-4bec2300-e163-11ea-9770-7a0ae2d8e714.png)
+      
+      
+      
+      Result Predicted by our Model:
+      
+      
+      
+      ![Screenshot (142)](https://user-images.githubusercontent.com/51885421/90496302-47c00580-e163-11ea-8ed6-9b95d1b88ce1.png)
       
 
-   ![3](https://user-images.githubusercontent.com/51885421/83054908-c2035100-a070-11ea-94f2-d00d37dc7322.png)
+   
    
    
    7. Do visit my Project on predicting chances of having Diabetes by visiting the following link:
